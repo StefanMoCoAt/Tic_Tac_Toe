@@ -1,0 +1,274 @@
+# Project exclude paths
+/.gradle/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Alternating Fibonacci numbers/out/
+/Problems/Alternating Fibonacci numbers/out/production/classes/
+/Problems/Application as a class/out/
+/Problems/Application as a class/out/production/classes/
+/Problems/Area of parallelogram/out/
+/Problems/Area of parallelogram/out/production/classes/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Avoid division by zero/out/
+/Problems/Avoid division by zero/out/production/classes/
+/Problems/Basic calculator/out/
+/Problems/Basic calculator/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Calculator with four methods/out/
+/Problems/Calculator with four methods/out/production/classes/
+/Problems/Call me awesome/out/
+/Problems/Call me awesome/out/production/classes/
+/Problems/Celsius to Fahrenheit/out/
+/Problems/Celsius to Fahrenheit/out/production/classes/
+/Problems/Check a number is positive/out/
+/Problems/Check a number is positive/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check if an array is sorted ascending/out/
+/Problems/Check if an array is sorted ascending/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check sudoku/out/
+/Problems/Check sudoku/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Check the value (1)/out/
+/Problems/Check the value (1)/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Create a full name/out/
+/Problems/Create a full name/out/production/classes/
+/Problems/Cutting out the middle of a string/out/
+/Problems/Cutting out the middle of a string/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Decompose a math function/out/
+/Problems/Decompose a math function/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Exactly one parameter is positive/out/
+/Problems/Exactly one parameter is positive/out/production/classes/
+/Problems/Exponential expression/out/
+/Problems/Exponential expression/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Fix compile-time errors/out/
+/Problems/Fix compile-time errors/out/production/classes/
+/Problems/Fix the method to print strings in the reverse order/out/
+/Problems/Fix the method to print strings in the reverse order/out/production/classes/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/Fixing the main method/out/
+/Problems/Fixing the main method/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/From string to a number/out/
+/Problems/From string to a number/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Groundhogs at a party/out/
+/Problems/Groundhogs at a party/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Hello, Java platform/out/
+/Problems/Hello, Java platform/out/production/classes/
+/Problems/Hiring a chef/out/
+/Problems/Hiring a chef/out/production/classes/
+/Problems/How many nuts each squirrel will get/out/
+/Problems/How many nuts each squirrel will get/out/production/classes/
+/Problems/Incorrect comments/out/
+/Problems/Incorrect comments/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Interval/out/
+/Problems/Interval/out/production/classes/
+/Problems/Inverse boolean flags/out/
+/Problems/Inverse boolean flags/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Javadoc comment/out/
+/Problems/Javadoc comment/out/production/classes/
+/Problems/K-combination/out/
+/Problems/K-combination/out/production/classes/
+/Problems/Leap year/out/
+/Problems/Leap year/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Next even number/out/
+/Problems/Next even number/out/production/classes/
+/Problems/Number of decompositions/out/
+/Problems/Number of decompositions/out/production/classes/
+/Problems/Number of occurrences/out/
+/Problems/Number of occurrences/out/production/classes/
+/Problems/Numbers divisible by six/out/
+/Problems/Numbers divisible by six/out/production/classes/
+/Problems/Overloading methods/out/
+/Problems/Overloading methods/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Parse url/out/
+/Problems/Parse url/out/production/classes/
+/Problems/Print/out/
+/Problems/Print/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Print  Hello, Java_/out/
+/Problems/Print  Hello, Java_/out/production/classes/
+/Problems/Print  We are robots_/out/
+/Problems/Print  We are robots_/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Printing only the longest line/out/
+/Problems/Printing only the longest line/out/production/classes/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Queens/out/
+/Problems/Queens/out/production/classes/
+/Problems/Raise to the power/out/
+/Problems/Raise to the power/out/production/classes/
+/Problems/Reading integer numbers/out/
+/Problems/Reading integer numbers/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Reversing/out/
+/Problems/Reversing/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/Sorting numbers/out/
+/Problems/Sorting numbers/out/production/classes/
+/Problems/Spiral/out/
+/Problems/Spiral/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/Sum of neighbors/out/
+/Problems/Sum of neighbors/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/Symmetrical number/out/
+/Problems/Symmetrical number/out/production/classes/
+/Problems/Tens digit/out/
+/Problems/Tens digit/out/production/classes/
+/Problems/Test learners/out/
+/Problems/Test learners/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The count of numbers divisible by N/out/
+/Problems/The count of numbers divisible by N/out/production/classes/
+/Problems/The countdown/out/
+/Problems/The countdown/out/production/classes/
+/Problems/The forgotten comments/out/
+/Problems/The forgotten comments/out/production/classes/
+/Problems/The index of an argument/out/
+/Problems/The index of an argument/out/production/classes/
+/Problems/The index of the first max in an array/out/
+/Problems/The index of the first max in an array/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Problems/The sequence (1)/out/
+/Problems/The sequence (1)/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/The star figure/out/
+/Problems/The star figure/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/Three numbers/out/
+/Problems/Three numbers/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Problems/Uncomment a line/out/
+/Problems/Uncomment a line/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/What's wrong/out/
+/Problems/What's wrong/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Tic-Tac-Toe/task/out/test/classes/
